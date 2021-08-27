@@ -4,4 +4,5 @@ public class ClasseModelo {
     private Integer numero2;
     private Integer numero3;
     private Integer numero4;
+    
 }
