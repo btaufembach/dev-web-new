@@ -1,3 +1,7 @@
 public class ClasseModelo {
     private String teste;
+    private Integer numero1;
+    private Integer numero2;
+    private Integer numero3;
+    private Integer numero4;
 }
